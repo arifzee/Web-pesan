@@ -1,4 +1,3 @@
-
 window.onload = function () {
     chatContainer.scrollTop = chatContainer.scrollHeight;
 };
