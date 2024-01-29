@@ -15,7 +15,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $stmt->execute();
     $result = $stmt->get_result();
     $data = $result->fetch_assoc();
-    echo $data['id'];
 
     if ($data['sender_name'] == $_SESSION['username']) {
 
