@@ -31,7 +31,7 @@ window.onload = function () {
     }
 
     // Panggil fungsi fetchData secara periodik (setiap 3 detik)
-    setInterval(fetchData, 6000);
+    setInterval(fetchData, 1000);
 
     // Pertama kali, panggil fetchData untuk menampilkan data awal
     fetchData();
