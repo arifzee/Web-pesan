@@ -12,7 +12,7 @@
     <div class="flex justify-start">
         <div class='text-normal py-2 sm:text-lg'>
             <div class='border rounded-t-2xl rounded-t-xl'>
-                <div class='flex rounded-t-xl px-2 py-1 justify-between'>
+                <div class='flex gap-10 rounded-t-xl px-2 py-1 justify-between'>
                     <strong><?= $pengirim ?></strong>
                     <form>
                         <input id="sqlQueryId<?= $id ?>" type="hidden" name="sqlQueryId" value="<?= $id ?>">
