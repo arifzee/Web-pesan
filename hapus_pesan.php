@@ -45,7 +45,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
     } else {
         echo '<script>alert("gak boleh hapus pesan orang lain😏");</script>';
-        echo "<script>window.location.href = 'pesan.php'</script>";
     }
 
 
