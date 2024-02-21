@@ -31,7 +31,7 @@ $koneksi->close();
     <div class="flex p-4 justify-center">
         <div class="p-3 flex w-full border border-black rounded-xl justify-center flex-wrap sm:flex-nowrap">
             <!-- <iframe src="https://blackspoort.com/albaplayer/%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa" width="100%" height="500px" frameborder="0" scrolling="1" allowfullscreen="allowfullscreen" __idm_id__="917505"></iframe> -->
-            <iframe name="iframe" src="https://playeriframe.shop/?url=https%3A%2F%2Fstream.hownetwork.xyz%2Fvideo.php%3Fid%3D1c031dc7955ffb7a6c0ada472b4ba942" scrolling="no" frameborder="0" width="100%" height="500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" id="player-iframe" style="z-index:0;" __idm_id__="7143425"></iframe>
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/HQtFR3mhzOY?autoplay=1" title="Hits Radio 1 Live Pop Radio&#39; Top Hits 2023 - Pop Music 2023 - New Songs 2023 Best English Songs 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             <div class="items-center gap-5 flex flex-col">
                 <div id="chatContainer" class="flex-col flex py-2 px-3 bg-neutral-100 min-h-96 max-h-96 max-w-96  overflow-y-scroll">
                     <?php
